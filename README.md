@@ -1,2 +1,2 @@
-# W1ra.github.io
+# website.github.io
 Config files for my GitHub profile.
